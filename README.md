@@ -12,6 +12,7 @@ specialising in customer behaviour, prepaid revenue analytics, and decision-read
 🔗 LinkedIn: https://www.linkedin.com/in/
 phuti-thantsha-532630213
 
+👉 View full portfolio: https://github.com/PhutiThantsha/portfolio
 
 <!--
 **PhutiThantsha/PhutiThantsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
